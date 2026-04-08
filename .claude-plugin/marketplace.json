@@ -1,0 +1,7 @@
+{
+  "name": "founder-metrics",
+  "owner": {"name": "ORBWEVA"},
+  "plugins": [
+    {"name":"startup-metrics","source":".","description":"Startup metrics and frameworks for founders. Use when user wants to assess product-market fit, calculate unit economics, analyze churn, project runway, diagnose funnel conversion, identify growth curv","version":"1.0.0","author":{"name":"ORBWEVA"},"repository":"https://github.com/ORBWEVA/founder-metrics"}
+  ]
+}
