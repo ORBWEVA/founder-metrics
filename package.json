@@ -1,10 +1,22 @@
 {
   "name": "founder-metrics",
   "version": "1.0.0",
-  "description": "Startup metrics and frameworks for Claude Code — PMF, unit economics, churn, runway, funnels, growth curves, moats, and fundraise readiness",
-  "keywords": ["claude-code", "skills", "startup", "metrics", "pmf", "cac", "ltv", "churn", "runway", "fundraise", "founder"],
+  "description": "Startup metrics and frameworks for Claude Code \u2014 PMF, unit economics, churn, runway, funnels, growth curves, moats, and fundraise readiness",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "startup",
+    "metrics",
+    "pmf",
+    "cac",
+    "ltv",
+    "churn",
+    "runway",
+    "fundraise",
+    "founder"
+  ],
   "author": "ORBWEVA",
-  "license": "MIT",
+  "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ORBWEVA/founder-metrics.git"
